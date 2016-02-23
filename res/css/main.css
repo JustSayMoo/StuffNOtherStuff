@@ -1,0 +1,41 @@
+body {
+    font-size: 10;
+    font-family:"Open Sans", sans-serif;
+    font-style:italic;
+    text-align:center;
+    color: black;
+    background: url("https://s-media-cache-ak0.pinimg.com/236x/19/d0/d2/19d0d2b6ebac3aa46868ec6ffcb144b2.jpg") no-repeat;
+    background-size:cover;
+    
+}
+h1 {
+    font-size:45px;
+    color:#26E80C;
+}
+h2 {
+    color:#26E80C;
+    font-size:35;
+}
+p {
+    color:#26E80C;
+}
+
+.Doctor {
+    list-style:none;
+}
+.Doctor li {
+    color:black;
+    font-size:35px;
+    font-family:"Open Sans",sans-serif;
+    
+}
+
+.Who {
+    list-style:none;
+}
+    
+.Who li {
+    color:#26E80C;
+    font-size: 25px;
+    font-family:"lato", sans-serif;
+}
