@@ -1,41 +1,74 @@
 body {
-    font-size: 10;
-    font-family:"Open Sans", sans-serif;
-    font-style:italic;
-    text-align:center;
-    color: black;
-    background: url("https://s-media-cache-ak0.pinimg.com/236x/19/d0/d2/19d0d2b6ebac3aa46868ec6ffcb144b2.jpg") no-repeat;
-    background-size:cover;
-    
-}
-h1 {
-    font-size:45px;
-    color:#26E80C;
-}
-h2 {
-    color:#26E80C;
-    font-size:35;
-}
-p {
-    color:#26E80C;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #fafafa;
 }
 
-.Doctor {
-    list-style:none;
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
 }
-.Doctor li {
+
+header {
+    background-color: white;
+    border-bottom: 1px dashed #eeeeee;
+    overflow: hidden;
+}
+
+.nav {
+    display: inline-block;
+}
+.logo, .nav li {
+    display: inline-block;
+}
+
+.nav li a {
+    display: block;
+    line-height: 66px;
+    padding: 0 18px;
+}
+
+nav {
+    float:right;
+    
+}
+
+.nav li ul {
+    margin: 0;
+    padding: 0;
+    display: none;background-color:white;
     color:black;
-    font-size:35px;
-    font-family:"Open Sans",sans-serif;
+    border: 1px solid #ddd;
+    border-top: none;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.nav li ul li {
+    display: block;
+}
+
+.nav li ul li a {
+    display: block;
+    line-height: 36px;
+    border-bottom: 1px solid #ddd;
     
 }
 
-.Who {
-    list-style:none;
+.nav li ul li:last-child a {
+    border-bottom:none;
 }
+
+.nav li:hover ul {
+    position:absolute;
+    display: block;
     
-.Who li {
-    color:#26E80C;
-    font-size: 25px;
-    font-family:"lato", sans-serif;
 }
+
+
+
+
+
+
+
+
