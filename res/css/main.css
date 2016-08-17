@@ -21,42 +21,95 @@ h1 {
 
 h2 {
     color:black;
-    font-size:15px;
+    font-size:20px;
 }
 
 h3 {
     color: black;
-    font-size:15px;
+    font-size:20px;
 }
 .Docter li {
     list-style:none;
-    font-size: 20px;
+    font-size: 25px;
     font-family:italic;
     font-weight:bold;
 }
 
 .Who {
     list-style:none;
-    font-size:20px;
+    font-size:25px;
     font-family:italic;
     font-weight:bold;
 }
 
 .Is {
     list-style:none;
-    font-size:15px;
+    font-size:20px;
     font-family:italic;
     font-weight:lighter;
 }
 
 .Awesome {
     list-style:none;
-    font-size:20px;
+    font-size:25px;
     font-family:italic;
     font-weight:bold;
 }
 
+.And {
+    list-style:none;
+    font-size:20px;
+    font-family:italic;
+    font-weight:lighter;
+}
 
+.Cool {
+    list-style:none;
+    font-size:25px;
+    font-family:italic;
+    font-weight:bold;
+}
+
+.Also {
+    list-style:none;
+    font-size:25px;
+    font-family:italic;
+    font-weight:bold;
+}
+
+.Starwars {
+    list-style:none;
+    font-size:20px;
+    font-family:italic;
+    font-weight:lighter;
+}
+
+.is {
+    list-style:none;
+    font-size:25px; 
+    font-family:italic;
+    font-weight:bold;
+}
+
+.Pretty {
+    list-style:none;
+    font-size:20px;
+    font-family:italic;
+    font-weight:lighter;
+}
+.Cool {
+    list-style:none;
+    font-size:25px;
+    font-family:italic;
+    font-weight:bold;
+}
+
+.Too {
+    list-style:none;
+    font-size:20px;
+    font-family:italic;
+    font-weight:lighter;
+}
 
 
 
